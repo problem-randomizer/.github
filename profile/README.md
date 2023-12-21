@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://problem-randomizer.vercel.app">
-    <img width="100" src="./images/prob-rand-logo.png">
+    <img width="100" src="https://raw.githubusercontent.com/problem-randomizer/.github/main/profile/images/prob-rand-logo.png">
   </a>
 </p>
 
@@ -8,4 +8,4 @@
 
 <p align="center">Create problem set and test your programming skills with various coding problems from Codeforces, AtCoder, etc.</p>
 
-![](./images/banner.svg)
+![](https://raw.githubusercontent.com/problem-randomizer/.github/main/profile/images/banner.svg)
